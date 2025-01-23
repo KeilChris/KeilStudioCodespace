@@ -1,4 +1,5 @@
 {
+    "containerUser": "chrsei01",
     "customizations": {
         "vscode": {
            "extensions": [
